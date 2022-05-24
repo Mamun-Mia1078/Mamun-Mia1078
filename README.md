@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Mamun Mia
 #### I am Learning Web Development
-https://scontent.fdac116-1.fna.fbcdn.net/v/t1.6435-9/123189374_1523535564702063_2240151923050233779_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeEtTsm6RMvVEeCY9uzO_G0iSS7tJlL8HPRJLu0mUvwc9BCuavB6QH2CkjKHximqmanLp2UAKmWJhlg1DTw3eWYk&_nc_ohc=w5OZlIj1AmIAX8Y4AxF&_nc_ht=scontent.fdac116-1.fna&oh=00_AT-lBIFPhrbLgnAagk5D2Ef94OWdD3YLl0VsGUhCPvcD6g&oe=62B14EEE
+
 
 Hello I am Mamun Mia.I want to be a Web Developer ☀️.I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
 Aside from my Learn, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer and support other open source projects. Also I enjoyThinking and writing technical things ✍️ 
 
-Skills:  REACT / JS /Bootstrap / CSS / HTML
+Skills:  REACT learning... / JS /Bootstrap / CSS / HTML
 
 - 🔭 I’m currently working on my friend project 
 - 🌱 I’m currently learning javascript 
