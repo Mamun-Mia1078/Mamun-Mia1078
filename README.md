@@ -13,10 +13,8 @@ Skills:  REACT / JS /Bootstrap / CSS / HTML
 - 💬 Ask me about Front end Development 
 - 😄 Pronouns: Sillent Killer🤪 
 - ⚡ Fun fact: I'm afraid of cats😂 
+
 https://scontent.fdac116-1.fna.fbcdn.net/v/t1.6435-9/123189374_1523535564702063_2240151923050233779_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeEtTsm6RMvVEeCY9uzO_G0iSS7tJlL8HPRJLu0mUvwc9BCuavB6QH2CkjKHximqmanLp2UAKmWJhlg1DTw3eWYk&_nc_ohc=w5OZlIj1AmIAX8Y4AxF&_nc_ht=scontent.fdac116-1.fna&oh=00_AT-lBIFPhrbLgnAagk5D2Ef94OWdD3YLl0VsGUhCPvcD6g&oe=62B14EEE
-
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mamun-Mia1078)](https://github.com/ryo-ma/github-profile-trophy)
 
